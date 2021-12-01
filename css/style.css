@@ -1,0 +1,46 @@
+/* Style css Sigisbert Tailor & Associés */
+
+/* police rubik sur l'ensemble du site */
+* {
+    font-family: 'Rubik', sans-serif;
+}
+
+
+/* logo Tailor & Associés */
+.logo {
+    margin: 20px;
+}
+/* logo D Gilmour */
+.gilmour {
+    padding-top: 20px;
+}
+
+/* Menu gauche */
+.menu-gauche {
+    margin-top: -50px;
+    margin-left: 30px;
+}
+
+/* header */
+
+/* .header-tailor {
+    margin-top: 0px;
+} */
+
+.border {
+    padding: 20px;
+}
+
+.header-droit {
+    text-align: right;
+}
+
+/* Début tableau action du jour */
+
+.ombre {
+    margin: 20px;
+    border-radius: 10px;
+}
+
+
+
